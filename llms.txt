@@ -1,0 +1,40 @@
+# Best Heated Blankets
+
+> Independent, research-based comparisons of electric blankets and heated throws for US homes. We compare published specifications, stated safety certifications, fabric weights and live pricing, and we work the running cost out in the open rather than quoting a headline figure. We do not physically test products, we do not run a testing lab, and we never invent ratings — Amazon no longer exposes verified rating data through its product API, so you will find no star scores anywhere on this site.
+
+## Top picks (2026)
+
+- **Best overall — Sunbeam Royal Ultra Fleece, Queen (~$71):** 90x84 inches, 12 heat settings, and an auto-off you select yourself anywhere from 1 to 12 hours. Digital controller with a backlit display that can be read in a dark bedroom; heat-sensing technology intended to hold temperature steady rather than cycling hard.
+- **Best for two people — WEOPEN Dual Control, Queen (~$60):** 84x90 inches with two independent heating zones and a controller each, plus a programmable shut-off. The answer when one person sleeps cold and the other does not.
+- **Best throw — Bedsure GentleSoft (~$42):** 50x60 inches, 6 heat levels and 6 timer presets from 1 to 10 hours, built around a preheat step that runs hot briefly then settles to a lower level. Bedsure states evaluation in an Intertek-recognised satellite laboratory against 74 tests.
+- **Warmest to the touch — EHEYCIGA Faux Fur & Sherpa (~$45):** 50x60 inches, 9 heat settings with a published range of 85–110°F, ETL certified with overheat protection and a 10-hour auto-off. Warm as a blanket before it is plugged in; slow to dry.
+- **Best under $30 — Beautyrest Reversible Heated Throw (~$27):** 50x60 inches, 200 gsm plush on one face and 220 gsm sherpa on the other, reversible. The listing states 78 independent safety tests. The one to buy if you are unsure you will use a heated blanket at all.
+- **Best for a single bed — Bedsure Ribbed Electric Blanket, Twin (~$60):** the same 6 heat levels, 6 timer presets and preheat routine as the throw, in a twin bed size; the preheat is described as matched to an eight-hour sleep cycle.
+
+## How to choose
+
+- **Throw or bed size:** a 50x60 inch throw is one person on a sofa and costs $27–$45. A queen at roughly 84x90 inches covers a bed for two and costs $60–$71. Decide this before comparing anything else.
+- **One controller or two:** on a shared bed a single controller becomes a nightly negotiation. Dual-zone models give each side its own settings. On a throw it is irrelevant.
+- **Auto-off duration:** automatic shut-off is standard on US-market models, but the interval is not. Some cut out after one or two hours, which suits a sofa and fails on a bed. If you want warmth all night, read this specification first.
+- **Washability:** nearly all are machine washable once the controller is detached from the cord. Confirm the cord detaches before buying, and never wash the controller.
+- **Certification:** look for ETL or UL, and for overheat protection stated explicitly. Some brands name their testing programme; most of the category does not.
+
+## What it costs to run
+
+Almost no listing publishes a wattage, so every running-cost figure in this category rests on an assumption. Ours, stated in the open: a throw drawing about 100 watts, run for eight hours, uses 0.8 kWh — about 14 cents at roughly 17 cents per kilowatt-hour, near the US residential average. A full-size bed blanket draws more, so roughly double. Change the wattage or your local rate and the number moves; the order of magnitude does not.
+
+## Method
+
+We pulled every electric blanket and heated throw we could source from Amazon's catalogue — 30 products — and kept those with a complete published specification: finished dimensions, number of heat settings, auto-off behaviour, fabric and any named safety certification. Listings whose only claim was an adjective were excluded, and so were the heating pads that search results mix into this category: a 12x24 inch back pad is a different product with a different job. We compare specifications, certifications, fabric weights and live pricing, and read the critical owner reviews closely. We do not physically test these blankets.
+
+## Guides
+
+<!--LLMS-GUIDES:START-->
+
+<!--LLMS-GUIDES:END-->
+
+## About
+
+Best Heated Blankets is published by Neto Consulting & Services Ltd (UK company 17423608) and written by Ilane Tall. It is reader-supported: we may earn a commission when you buy through our links, at no additional cost to you. As an Amazon Associate, we earn from qualifying purchases. Commissions never change which products we recommend. Corrections are welcome at ncs.jt26@gmail.com.
+
+Nothing here is professional electrical advice, and points touching on health or circulation are general consumer information rather than medical guidance.

@@ -1,0 +1,29 @@
+{
+  "site": {
+    "name": "Best Heated Blankets",
+    "domain": "best-heated-blankets.com",
+    "base_url": "https://best-heated-blankets.com",
+    "affiliate_tag": "best-heated-blankets-20",
+    "author": "Ilane Tall",
+    "template": "premium-editorial-v1",
+    "ratings_policy": "Amazon no longer exposes ratings through the API, so this site shows none. Prices and specifications come from the product listings; everything else is comparison and reading of verified owner reviews.",
+    "static_pages": [
+      { "path": "", "priority": "1.0" },
+      { "path": "guides", "priority": "0.6" },
+      { "path": "about", "priority": "0.3" },
+      { "path": "contact", "priority": "0.3" },
+      { "path": "privacy", "priority": "0.3" }
+    ],
+    "network_card": {
+      "href": "https://best-towel-warmers.com/",
+      "category": "From our network",
+      "title": "The other thing you want warm before you touch it",
+      "description": "A heated blanket and a towel warmer solve the same small misery from opposite ends of the house. Our sibling site compares the racks and buckets."
+    },
+    "analytics": {
+      "clarity_id": null,
+      "ga_id": "G-G2QVCFDNKV"
+    }
+  },
+  "articles": []
+}
