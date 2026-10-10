@@ -8,11 +8,26 @@
     "template": "premium-editorial-v1",
     "ratings_policy": "Amazon no longer exposes ratings through the API, so this site shows none. Prices and specifications come from the product listings; everything else is comparison and reading of verified owner reviews.",
     "static_pages": [
-      { "path": "", "priority": "1.0" },
-      { "path": "guides", "priority": "0.6" },
-      { "path": "about", "priority": "0.3" },
-      { "path": "contact", "priority": "0.3" },
-      { "path": "privacy", "priority": "0.3" }
+      {
+        "path": "",
+        "priority": "1.0"
+      },
+      {
+        "path": "guides",
+        "priority": "0.6"
+      },
+      {
+        "path": "about",
+        "priority": "0.3"
+      },
+      {
+        "path": "contact",
+        "priority": "0.3"
+      },
+      {
+        "path": "privacy",
+        "priority": "0.3"
+      }
     ],
     "network_card": {
       "href": "https://best-towel-warmers.com/",
@@ -25,5 +40,16 @@
       "ga_id": "G-G2QVCFDNKV"
     }
   },
-  "articles": []
+  "articles": [
+    {
+      "slug": "heated-throw-vs-heated-mattress-pad",
+      "title": "Heated Throw or Heated Mattress Pad: Which One",
+      "description": "One warms you on top, the other warms the bed underneath. The difference changes what you buy, where you use it, and how often you wash it.",
+      "category": "Comparison",
+      "hero": "hero-heated-throw-vs-heated-mattress-pad",
+      "minutes": 15,
+      "date": "2026-10-10",
+      "featured": true
+    }
+  ]
 }
