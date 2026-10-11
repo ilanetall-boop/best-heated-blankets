@@ -50,6 +50,16 @@
       "minutes": 15,
       "date": "2026-10-10",
       "featured": true
+    },
+    {
+      "slug": "best-heated-throw-blankets",
+      "title": "The Best Heated Throw Blankets",
+      "description": "A 50x60 throw is what most people picture when they say heated blanket. The three worth owning, compared on preheat behaviour, timer length and how they feel unplugged.",
+      "category": "Roundup",
+      "hero": "hero-best-heated-throw-blankets",
+      "minutes": 15,
+      "date": "2026-10-11",
+      "featured": true
     }
   ]
 }
