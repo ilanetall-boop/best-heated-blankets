@@ -1,8 +1,8 @@
 /* Best Reverse Osmosis Systems - site.js: analytics + outbound amazon click tracking.
    Ids come from data/blogs-registry.json via scripts/premium-analytics-sync.js — do not hand-edit. */
 (function(){
-  var GA_ID = "G-Z6YK89EJMR";
-  var CLARITY_ID = "y3991alayc";
+  var GA_ID = "G-G2QVCFDNKV";
+  var CLARITY_ID = "yw1e8b83ri";
   if(GA_ID){
     var s=document.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtag/js?id="+GA_ID;document.head.appendChild(s);
     window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};gtag("js",new Date());gtag("config",GA_ID);
