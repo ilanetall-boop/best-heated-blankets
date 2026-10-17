@@ -60,6 +60,16 @@
       "minutes": 15,
       "date": "2026-10-11",
       "featured": true
+    },
+    {
+      "slug": "best-heated-blankets-for-a-queen-bed",
+      "title": "The Best Heated Blankets for a Queen Bed",
+      "description": "Queen means 84x90 inches and two people under one blanket. The three that cover the mattress properly, and why the controller matters more than the heat settings.",
+      "category": "Roundup",
+      "hero": "hero-best-heated-blankets-for-a-queen-bed",
+      "minutes": 15,
+      "date": "2026-10-17",
+      "featured": true
     }
   ]
 }
