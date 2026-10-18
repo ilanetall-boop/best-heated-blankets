@@ -70,6 +70,16 @@
       "minutes": 15,
       "date": "2026-10-17",
       "featured": true
+    },
+    {
+      "slug": "best-dual-control-heated-blankets",
+      "title": "The Best Dual Control Heated Blankets",
+      "description": "One controller and two people is the complaint that comes back. Blankets split into two independently heated halves, and what the split costs you elsewhere.",
+      "category": "Roundup",
+      "hero": "hero-best-dual-control-heated-blankets",
+      "minutes": 15,
+      "date": "2026-10-18",
+      "featured": true
     }
   ]
 }
