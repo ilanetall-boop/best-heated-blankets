@@ -80,6 +80,16 @@
       "minutes": 15,
       "date": "2026-10-18",
       "featured": true
+    },
+    {
+      "slug": "what-a-heated-blanket-costs-to-run",
+      "title": "What a Heated Blanket Actually Costs to Run",
+      "description": "Manufacturers rarely publish wattage, so every figure you read rests on an assumption. Ours, stated in the open, with the arithmetic you can redo at your own rate.",
+      "category": "Honest take",
+      "hero": "hero-what-a-heated-blanket-costs-to-run",
+      "minutes": 14,
+      "date": "2026-10-19",
+      "featured": true
     }
   ]
 }
