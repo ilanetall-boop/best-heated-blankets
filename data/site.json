@@ -90,6 +90,16 @@
       "minutes": 14,
       "date": "2026-10-19",
       "featured": true
+    },
+    {
+      "slug": "are-heated-blankets-safe-to-sleep-with",
+      "title": "Are Heated Blankets Safe to Sleep With?",
+      "description": "Automatic shut-off is standard, but the interval is not. What the certifications mean, which habits actually matter, and when to replace one rather than repair it.",
+      "category": "Honest take",
+      "hero": "hero-are-heated-blankets-safe-to-sleep-with",
+      "minutes": 15,
+      "date": "2026-10-20",
+      "featured": true
     }
   ]
 }
