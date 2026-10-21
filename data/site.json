@@ -100,6 +100,16 @@
       "minutes": 15,
       "date": "2026-10-20",
       "featured": true
+    },
+    {
+      "slug": "how-to-wash-a-heated-blanket",
+      "title": "How to Wash a Heated Blanket Without Ruining It",
+      "description": "Nearly all of them are machine washable once the controller is detached. The detail to confirm before you buy, and why a sherpa throw takes a day to dry.",
+      "category": "How-to",
+      "hero": "hero-how-to-wash-a-heated-blanket",
+      "minutes": 15,
+      "date": "2026-10-21",
+      "featured": true
     }
   ]
 }
