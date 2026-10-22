@@ -110,6 +110,16 @@
       "minutes": 15,
       "date": "2026-10-21",
       "featured": true
+    },
+    {
+      "slug": "best-heated-blankets-under-30",
+      "title": "The Best Heated Blankets Under $30",
+      "description": "Under thirty dollars the category fills with anonymous brands. The three that still state a fabric weight or a safety programme, and exactly what you give up.",
+      "category": "Roundup",
+      "hero": "hero-best-heated-blankets-under-30",
+      "minutes": 16,
+      "date": "2026-10-22",
+      "featured": true
     }
   ]
 }
