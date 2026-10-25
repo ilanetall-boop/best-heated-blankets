@@ -140,6 +140,16 @@
       "minutes": 16,
       "date": "2026-10-24",
       "featured": true
+    },
+    {
+      "slug": "flannel-vs-sherpa-vs-faux-fur-heated-blankets",
+      "title": "Flannel vs Sherpa vs Faux Fur: Which Heated Blanket Fabric",
+      "description": "The fabric decides how warm it is unplugged, how fast it dries, and how long you keep it. Three blankets that are otherwise comparable, compared on material alone.",
+      "category": "Comparison",
+      "hero": "hero-flannel-vs-sherpa-vs-faux-fur-heated-blankets",
+      "minutes": 15,
+      "date": "2026-10-25",
+      "featured": true
     }
   ]
 }
