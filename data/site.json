@@ -160,6 +160,16 @@
       "minutes": 14,
       "date": "2026-10-26",
       "featured": true
+    },
+    {
+      "slug": "heated-blanket-preheat-explained",
+      "title": "What the Preheat Function on a Heated Blanket Actually Does",
+      "description": "Run hot briefly, then hold a lower level for hours. Why the feature removes a step you did not know you were doing, and which blankets implement it properly.",
+      "category": "Buying guide",
+      "hero": "hero-heated-blanket-preheat-explained",
+      "minutes": 14,
+      "date": "2026-10-27",
+      "featured": true
     }
   ]
 }
