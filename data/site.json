@@ -180,6 +180,16 @@
       "minutes": 15,
       "date": "2026-10-28",
       "featured": true
+    },
+    {
+      "slug": "are-expensive-heated-blankets-worth-it",
+      "title": "Are Expensive Heated Blankets Worth It?",
+      "description": "Some electric blankets sell for three times the price of the basics with the same five heat levels on the box. What the extra sixty dollars actually buys, product by product.",
+      "category": "Honest take",
+      "hero": "hero-are-expensive-heated-blankets-worth-it",
+      "minutes": 16,
+      "date": "2026-10-29",
+      "featured": true
     }
   ]
 }
