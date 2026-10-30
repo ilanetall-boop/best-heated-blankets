@@ -190,6 +190,16 @@
       "minutes": 16,
       "date": "2026-10-29",
       "featured": true
+    },
+    {
+      "slug": "how-many-heat-settings-does-a-heated-blanket-need",
+      "title": "How Many Heat Settings Does a Heated Blanket Actually Need?",
+      "description": "Some blankets offer five heat levels, others twelve. The difference is rarely about getting warmer, and almost always about how finely you can land on the one setting you actually use.",
+      "category": "Buying guide",
+      "hero": "hero-how-many-heat-settings-does-a-heated-blanket-need",
+      "minutes": 16,
+      "date": "2026-10-30",
+      "featured": true
     }
   ]
 }
