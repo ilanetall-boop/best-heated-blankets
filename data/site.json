@@ -210,6 +210,16 @@
       "minutes": 16,
       "date": "2026-10-31",
       "featured": true
+    },
+    {
+      "slug": "best-heated-blankets-for-pet-owners",
+      "title": "The Best Heated Blankets for Pet Owners",
+      "description": "Fur, frequent washing and the occasional claw change what a heated blanket needs to survive. Three that hold up to a wash cycle every week without the wires or the fabric giving out first.",
+      "category": "Roundup",
+      "hero": "hero-best-heated-blankets-for-pet-owners",
+      "minutes": 15,
+      "date": "2026-11-01",
+      "featured": true
     }
   ]
 }
