@@ -220,6 +220,16 @@
       "minutes": 15,
       "date": "2026-11-01",
       "featured": true
+    },
+    {
+      "slug": "best-heated-blankets-with-simple-controls",
+      "title": "The Best Heated Blankets With Simple, No-Fuss Controls",
+      "description": "A backlit touchscreen is not an upgrade for everyone. Three blankets built around one button or one dial, for anyone who wants heat without reading a manual first.",
+      "category": "Roundup",
+      "hero": "hero-best-heated-blankets-with-simple-controls",
+      "minutes": 15,
+      "date": "2026-11-02",
+      "featured": true
     }
   ]
 }
