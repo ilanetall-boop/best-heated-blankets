@@ -230,6 +230,16 @@
       "minutes": 15,
       "date": "2026-11-02",
       "featured": true
+    },
+    {
+      "slug": "heating-pad-or-heated-blanket-for-a-sore-back",
+      "title": "Heating Pad or Heated Blanket: Which One Solves a Sore Back",
+      "description": "A 12x24 pad and a 50x60 throw are not interchangeable buys. When the smaller coverage area is actually the right trade, and when it just leaves the rest of you cold.",
+      "category": "Comparison",
+      "hero": "hero-heating-pad-or-heated-blanket-for-a-sore-back",
+      "minutes": 15,
+      "date": "2026-11-03",
+      "featured": true
     }
   ]
 }
