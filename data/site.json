@@ -260,6 +260,16 @@
       "minutes": 14,
       "date": "2026-11-05",
       "featured": true
+    },
+    {
+      "slug": "is-an-xl-heated-throw-worth-it",
+      "title": "Is an XL Heated Throw Blanket Actually Bigger Enough to Matter?",
+      "description": "One throw in the catalogue is sold specifically as XL. Measured against two standard 50x60 throws, whether the extra size is worth the premium or just a bigger number on the label.",
+      "category": "Comparison",
+      "hero": "hero-is-an-xl-heated-throw-worth-it",
+      "minutes": 15,
+      "date": "2026-11-06",
+      "featured": true
     }
   ]
 }
