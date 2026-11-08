@@ -280,6 +280,16 @@
       "minutes": 15,
       "date": "2026-11-07",
       "featured": true
+    },
+    {
+      "slug": "reversible-flannel-sherpa-heated-throws",
+      "title": "Reversible Flannel-and-Sherpa Heated Throws: What the Second Side Is For",
+      "description": "One throw in the catalogue is reversible flannel on one side, sherpa on the other. Compared against two single-sided flannel throws, what flipping it actually changes.",
+      "category": "Comparison",
+      "hero": "hero-reversible-flannel-sherpa-heated-throws",
+      "minutes": 15,
+      "date": "2026-11-08",
+      "featured": true
     }
   ]
 }
