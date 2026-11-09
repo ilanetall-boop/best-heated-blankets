@@ -290,6 +290,16 @@
       "minutes": 15,
       "date": "2026-11-08",
       "featured": true
+    },
+    {
+      "slug": "sunbeam-fleece-vs-microplush-queen-blanket",
+      "title": "Sunbeam's Two Queen Blankets: Fleece or Microplush, and What Changes",
+      "description": "Sunbeam sells the same queen size in two named fabrics, fifteen dollars apart. The only two listings in the catalogue that name their fabric outright, compared against a generic queen at nearly half the price.",
+      "category": "Comparison",
+      "hero": "hero-sunbeam-fleece-vs-microplush-queen-blanket",
+      "minutes": 14,
+      "date": "2026-11-09",
+      "featured": true
     }
   ]
 }
