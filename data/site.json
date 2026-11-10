@@ -300,6 +300,16 @@
       "minutes": 14,
       "date": "2026-11-09",
       "featured": true
+    },
+    {
+      "slug": "best-bedsure-heated-blankets-by-size",
+      "title": "Bedsure's Heated Blankets at Every Size, Compared",
+      "description": "The same six heat levels and six timer settings run through all four Bedsure sizes, from a $40 throw to an $85 dual-control queen. What actually changes at each step up, and where the jump stops being worth it.",
+      "category": "Comparison",
+      "hero": "hero-best-bedsure-heated-blankets-by-size",
+      "minutes": 14,
+      "date": "2026-11-10",
+      "featured": true
     }
   ]
 }
