@@ -310,6 +310,16 @@
       "minutes": 14,
       "date": "2026-11-10",
       "featured": true
+    },
+    {
+      "slug": "heated-blankets-with-the-longest-power-cord",
+      "title": "Heated Blankets With the Longest Power Cord",
+      "description": "Most heated blanket cords run six to eight feet, which is fine until the outlet is on the wrong side of the room. Three with a published cord length of 8.5 to 16 feet, and why that number rarely makes it into the first five listing photos.",
+      "category": "Buying guide",
+      "hero": "hero-heated-blankets-with-the-longest-power-cord",
+      "minutes": 15,
+      "date": "2026-11-11",
+      "featured": true
     }
   ]
 }
