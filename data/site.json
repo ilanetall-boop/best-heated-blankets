@@ -320,6 +320,16 @@
       "minutes": 15,
       "date": "2026-11-11",
       "featured": true
+    },
+    {
+      "slug": "westinghouses-three-heated-throws-compared",
+      "title": "Westinghouse Sells Three Heated Throws: Here's What Actually Differs",
+      "description": "All three are 50x60, all three run six heat levels, and the price spreads from $37.99 to $49.99. The fabric and the fine print on the controller are where the twelve dollars actually goes.",
+      "category": "Comparison",
+      "hero": "hero-westinghouses-three-heated-throws-compared",
+      "minutes": 14,
+      "date": "2026-11-12",
+      "featured": true
     }
   ]
 }
