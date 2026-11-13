@@ -330,6 +330,16 @@
       "minutes": 14,
       "date": "2026-11-12",
       "featured": true
+    },
+    {
+      "slug": "best-heated-throws-for-a-cold-home-office",
+      "title": "The Best Heated Throws for a Cold Home Office",
+      "description": "A blanket draped over your legs under a desk behaves differently than one on a sofa: the cord has to survive a chair rolling over it, and the auto-off matters more when a work call makes you forget it's on. Three throws built around exactly that.",
+      "category": "Roundup",
+      "hero": "hero-best-heated-throws-for-a-cold-home-office",
+      "minutes": 14,
+      "date": "2026-11-13",
+      "featured": true
     }
   ]
 }
