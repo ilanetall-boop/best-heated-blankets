@@ -360,6 +360,16 @@
       "minutes": 16,
       "date": "2026-11-15",
       "featured": true
+    },
+    {
+      "slug": "how-to-store-a-heated-blanket-for-summer",
+      "title": "How to Store a Heated Blanket So It Still Works Next Winter",
+      "description": "The wire inside survives a sharp fold worse than a wash cycle. How to roll rather than crease three different blankets, where the controller goes, and the one storage mistake that cracks a heating element by October.",
+      "category": "How-to",
+      "hero": "hero-how-to-store-a-heated-blanket-for-summer",
+      "minutes": 15,
+      "date": "2026-11-16",
+      "featured": true
     }
   ]
 }
