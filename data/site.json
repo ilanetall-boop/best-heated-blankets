@@ -430,6 +430,16 @@
       "minutes": 14,
       "date": "2026-11-22",
       "featured": true
+    },
+    {
+      "slug": "heated-blankets-that-state-an-actual-temperature",
+      "title": "The One Heated Blanket That States Its Actual Temperature",
+      "description": "Almost every listing in this category describes its heat only as a level number from one to however many. A single one states a maximum in Fahrenheit outright, which makes it worth asking what 'level 5' on anything else actually means in degrees.",
+      "category": "Honest take",
+      "hero": "hero-heated-blankets-that-state-an-actual-temperature",
+      "minutes": 15,
+      "date": "2026-11-23",
+      "featured": true
     }
   ]
 }
