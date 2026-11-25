@@ -450,6 +450,16 @@
       "minutes": 15,
       "date": "2026-11-24",
       "featured": true
+    },
+    {
+      "slug": "heated-throws-with-a-short-auto-off-timer",
+      "title": "The Best Heated Throws With a Short 3-to-4-Hour Auto-Off",
+      "description": "Most throws default to eight or ten hours. Three that cut off in three to four hours instead, built for a nap or a couch session rather than a full night of use.",
+      "category": "Roundup",
+      "hero": "hero-heated-throws-with-a-short-auto-off-timer",
+      "minutes": 14,
+      "date": "2026-11-25",
+      "featured": true
     }
   ]
 }
