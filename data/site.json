@@ -460,6 +460,16 @@
       "minutes": 14,
       "date": "2026-11-25",
       "featured": true
+    },
+    {
+      "slug": "jacquard-waffle-or-faux-fur-heated-throws",
+      "title": "Jacquard, Waffle or Faux Fur: Heated Throws With a Textured Surface",
+      "description": "Most heated throws stay flat flannel or sherpa. Three that don't — a jacquard faux rabbit fur, a waffle weave and a plain faux fur — compared on what the texture actually changes.",
+      "category": "Comparison",
+      "hero": "hero-jacquard-waffle-or-faux-fur-heated-throws",
+      "minutes": 15,
+      "date": "2026-11-26",
+      "featured": true
     }
   ]
 }
