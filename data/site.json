@@ -480,6 +480,16 @@
       "minutes": 15,
       "date": "2026-11-27",
       "featured": true
+    },
+    {
+      "slug": "sealys-duplicate-queen-blanket-and-its-only-throw",
+      "title": "Sealy Lists the Same $110 Queen Blanket Twice, Plus One $60 Throw",
+      "description": "Two Sealy queen listings share the same name, price, size and color — evidently the same blanket under two ASINs. Checked against Sealy's only throw-size option at roughly half the price.",
+      "category": "Honest take",
+      "hero": "hero-sealys-duplicate-queen-blanket-and-its-only-throw",
+      "minutes": 15,
+      "date": "2026-11-28",
+      "featured": true
     }
   ]
 }
